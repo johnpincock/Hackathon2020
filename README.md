@@ -44,18 +44,22 @@ Using **GPconnect** we hope to automate a large portion of patient data transfer
 5. The patient will be offered the opportunity to join the app ecosystem to feedback/ review their HomeHealth Worker and manage future checkup appointments.
 
 
-### Project outline
+## Project outline
 Stage 0
 - mock Web and Mobile App
+
 Stage 1
-- beta Web and Mobile App
+- prototype Web and Mobile App
+
 Stage 2
-- Approach a willing local Practice to trial with a handful of   qualified people and patients
+- Approach a willing local Practice to trial with a handful of qualified people and patients
 - Get evidence base
 - rapid platform feedback and development
+
 Stage 3
 - Approach CCG to increase availability to GPs in catchment area
 - Develop onboarding process for HCWs to work on the platform for 
+
 Stage 4
 - Recruit students in a healthcare field as well as bank staff 
 - Run onboarding
