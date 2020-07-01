@@ -1,0 +1,12 @@
+{
+  "name": "flask_hackathon",
+  "displayName": "flask_hackathon",
+  "expo": {
+    "name": "flask_hackathon",
+    "slug": "flask_hackathon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
