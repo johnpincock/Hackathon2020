@@ -17,14 +17,14 @@ This approach will help directly help patients least engaged in healthcare and i
 ### This is a mock up platform.
 - as such, the codebase is a mess! But runnable.
 
-##GP practice View
+## GP practice View
 
 <img src="static/Screenshot%202020-07-02%20at%2016.40.33.png" height="500" display='float:left;position:relative' />
 
 <img src="static/Screenshot%202020-07-02%20at%2016.40.52.png" height="500" display='float:left;position:relative'/>
 
 
-##HomeHealth Worker View
+## HomeHealth Worker View
 
 <img src="static/Screenshot%202020-07-02%20at%2016.41.26.png" height="500" display='float:left;position:relative'/>
 
